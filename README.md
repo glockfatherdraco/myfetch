@@ -2,11 +2,11 @@
 
 # [fastfetch](https://github.com/fastfetch-cli/fastfetch) config
 
-*Clean and minimal terminal layout*
+_Clean and minimal terminal layout_
 
 <br />
 
-[![Last Commit](https://img.shields.io/github/last-commit/GlockFatherDraco/fastfetch-config?style=flat-square)](https://github.com/GlockFatherDraco/fastfetch-config/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/glockfatherdraco/myfetch?style=flat-square)](https://github.com/glockfatherdraco/myfetch/commits/main)
 
 </div>
 
@@ -16,8 +16,8 @@
 
 </div>
 
-* **Package:** [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
-* **Font:**    [Nerd Font](https://www.nerdfonts.com/) for the terminal
+- **Package:** [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- **Font:** [Nerd Font](https://www.nerdfonts.com/) for the terminal
 
 </div>
 
@@ -42,7 +42,6 @@
 <div align="center">
 
 ## Installation
-
 
 ```bash
 mkdir -p ~/.config/fastfetch && curl -fsSL https://raw.githubusercontent.com/glockfatherdraco/fastfetch-config/refs/heads/main/config.jsonc -o ~/.config/fastfetch/config.jsonc
