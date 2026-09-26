@@ -28,7 +28,7 @@ _Clean and minimal terminal layout_
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/GlockFatherDraco/fastfetch-config/blob/main/assets/linux-preview.png" width="400" alt="Linux Preview" />
+      <img src="https://github.com/glockfatherdraco/myfetch/blob/main/assets/linux-preview.png" width="400" alt="Linux Preview" />
       <br />
       <em>Linux</em>
     </td>
